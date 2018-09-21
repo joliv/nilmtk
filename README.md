@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/nilmtk/nilmtk.svg?branch=master)](https://travis-ci.org/nilmtk/nilmtk)
+[![Build Status](https://api.travis-ci.org/nilmtk/nilmtk.svg?branch=master)](https://travis-ci.org/nilmtk/nilmtk)
 
 # NILMTK: Non-Intrusive Load Monitoring Toolkit
 
